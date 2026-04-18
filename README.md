@@ -62,7 +62,6 @@ When I'm not [researching](https://rt007.github.io/research.html), I build thing
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 **Languages & Frameworks**
 
