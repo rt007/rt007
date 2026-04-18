@@ -20,7 +20,7 @@
 
 I'm a technology researcher based in **Dublin**, working at the intersection of **digital twins**, **AI**, and **smart cities**. My research is conducted in collaboration with Dublin Fire Brigade, Dublin City Council, and Bentley Systems, with a focus on translating emerging technologies into real-world operational and societal benefits.
 
-When I'm not researching, I build things - from AI-powered web apps to RC bots to interactive tools. I'm also a lifelong learner, an avid reader, and a sports enthusiast.
+When I'm not [researching](https://rt007.github.io/research.html), I build things - from [AI-powered web apps](https://rt007.github.io/) to [RC bots](https://rt007.github.io/myroom.html). I'm also a [lifelong learner](https://rt007.github.io/about/index.html), an [avid reader](https://rt007.github.io/books.html), and a sports enthusiast.
 
 ---
 
