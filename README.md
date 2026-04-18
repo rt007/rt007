@@ -40,7 +40,7 @@ When I'm not researching, I build things - from AI-powered web apps to RC bots t
 
 ## 🛠️ Recent AI Projects
 
-| Project | Description | Stack |
+| Project | Description | Tools Used |
 |---------|-------------|-------|
 | [**CodeSherpa**](https://codesherpa-seven.vercel.app/) | Paste any code, get a plain-English explanation powered by AI | TypeScript · Node.js · Express · Vite · Tailwind |
 | [**Escape Call**](https://github.com/rt007/escape-call-app) | One-tap fake incoming call Android widget via Twilio | Kotlin · Android · Node.js · Twilio |
