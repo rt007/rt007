@@ -32,7 +32,7 @@ When I'm not researching, I build things - from AI-powered web apps to RC bots t
 | 🌆 **Smart Cities** | Mapping the infrastructure for next-generation resilient urban systems |
 | 🤖 **Artificial Intelligence** | Integrating AI with digital twin technology for enhanced decision-making |
 
-**Current projects:**
+**Current research projects:**
 - **DT4EM** — Digital Twins for Emergency Management *(2026)*
 - **DT4I** — Digital Twins for Impact *(2025)*
 
@@ -46,7 +46,7 @@ When I'm not researching, I build things - from AI-powered web apps to RC bots t
 | [**Escape Call**](https://github.com/rt007/escape-call-app) | One-tap fake incoming call Android widget via Twilio | Kotlin · Android · Node.js · Twilio |
 | [**Personal AI Chatbot**](https://rt007.github.io) | AI chatbot trained on my knowledge base, embedded in my site | JavaScript · CSS · OpenAI |
 | [**Life Calendar**](https://rt007.github.io/life-calendar/) | Visualise your entire life in weeks on a single printable page | HTML · JavaScript |
-| [**DT4I Video**](https://youtu.be/_NW3jeNyvbc) | Project overview video for the Digital Twins for Impact research | Gemini · ElevenLabs · Canva |
+| [**DT4EM Video**](https://youtu.be/adA8uoCietg) | Project overview video for the Digital Twins for Impact research | Gemini · ElevenLabs · CapCut |
 
 ---
 
