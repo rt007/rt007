@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Romal 👋</h1>
+<h1 align="center">Hi, I'm Romal 👋</h1>
 
 <p align="center">
   <em>Technology Researcher · AI & Emerging Tech · Digital Transformation</em>
@@ -7,11 +7,11 @@
 <p align="center">
   <a href="https://linkedin.com/in/romalthakkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
+  <a href="https://rt007.github.io"><img src="https://img.shields.io/badge/Website-rt007.github.io-black?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  &nbsp;
   <a href="https://github.com/rt007"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   &nbsp;
-  <a href="https://linktr.ee/romalt"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/></a>
-  &nbsp;
-  <a href="https://rt007.github.io"><img src="https://img.shields.io/badge/Website-rt007.github.io-black?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://linktr.ee/romalt"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/></a>  
 </p>
 
 ---
