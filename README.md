@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## 👨🏻‍💻 About Me
 
 I'm a technology researcher based in **Dublin**, working at the intersection of **digital twins**, **AI**, and **smart cities**. My research is conducted in collaboration with Dublin Fire Brigade, Dublin City Council, and Bentley Systems, with a focus on translating emerging technologies into real-world operational and societal benefits.
 
