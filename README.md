@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Romal 👋</h1>
 
 <p align="center">
-  <em>Technology Researcher · AI & Emerging Tech · Digital Transformation</em>
+  <em>Technology Researcher (AI & Emerging Tech) · Technology Consulting · Digital Transformation</em>
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
   &nbsp;
   <a href="https://rt007.github.io"><img src="https://img.shields.io/badge/Website-rt007.github.io-black?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
   &nbsp;
-  <a href="https://github.com/rt007"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linktr.ee/romalt"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/></a>
   &nbsp;
-  <a href="https://linktr.ee/romalt"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/></a>  
+  <a href="https://github.com/rt007"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -33,14 +33,12 @@ When I'm not researching, I build things — from AI-powered web apps to Android
 | 🤖 **Artificial Intelligence** | Integrating AI with digital twin technology for enhanced decision-making |
 
 **Current projects:**
-- **DT4EM** — Digital Twins for Emergency Management *(2026, upcoming)*
-- **DT4I** — Digital Twins for Impact: Risk & Emergency Management at scale *(2025)*
-
-📻 Also hosting [Digital Twins Unwrapped](https://open.spotify.com/show/0XvW9tutzmaG2sXM6zhC11) — a podcast series exploring where digital twin technology is headed.
+- **DT4EM** — Digital Twins for Emergency Management *(2026)*
+- **DT4I** — Digital Twins for Impact *(2025)*
 
 ---
 
-## 🛠️ Top Projects
+## 🛠️ Recent AI Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -54,6 +52,18 @@ When I'm not researching, I build things — from AI-powered web apps to Android
 
 ## ⚙️ Tech Stack & Tools
 
+**AI & Cloud**
+
+![Claude](https://img.shields.io/badge/Claude%20%2F%20Claude%20Code-D97706?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
 **Languages & Frameworks**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -64,24 +74,6 @@ When I'm not researching, I build things — from AI-powered web apps to Android
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**AI & Cloud**
-
-![Claude](https://img.shields.io/badge/Claude%20%2F%20Claude%20Code-D97706?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-**Multimedia & Creative**
-
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
 ---
 
