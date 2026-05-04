@@ -20,7 +20,7 @@
 
 I'm a technology researcher based in **Dublin**, working at the intersection of **digital twins**, **AI**, and **smart cities**. My research is conducted in collaboration with Dublin Fire Brigade, Dublin City Council, and Dublin City University, with a focus on translating emerging technologies into real-world operational and societal benefits.
 
-When I'm not [researching](https://rt007.github.io/research.html), I build things - from [AI-powered web apps](https://rt007.github.io/) to [RC bots](https://rt007.github.io/myroom.html). I'm also a [lifelong learner](https://rt007.github.io/about/index.html), an [avid reader](https://rt007.github.io/books.html), and a sports enthusiast.
+When I'm not [researching](https://romalbuilds.com/research.html), I build things - from [AI-powered web apps](https://romalbuilds.com) to [RC bots](https://romalbuilds.com/myroom.html). I'm also a [lifelong learner](https://romalbuilds.com/about/index.html), an [avid reader](https://romalbuilds.com/books.html), and a sports enthusiast.
 
 ---
 
@@ -44,7 +44,7 @@ When I'm not [researching](https://rt007.github.io/research.html), I build thing
 |---------|-------------|-------|
 | [**CodeSherpa**](https://codesherpa-seven.vercel.app/) | Paste any code, get a plain-English explanation powered by AI | TypeScript · Node.js · Express · Vite · Tailwind |
 | [**Escape Call**](https://github.com/rt007/escape-call-app) | One-tap fake incoming call Android widget via Twilio | Kotlin · Android · Node.js · Twilio |
-| [**Personal AI Chatbot**](https://rt007.github.io) | AI chatbot trained on my knowledge base, embedded in my site | JavaScript · CSS · OpenAI |
+| [**Personal AI Chatbot**](https://romalbuilds.com) | AI chatbot trained on my knowledge base, embedded in my site | JavaScript · CSS · OpenAI |
 | [**Life Calendar**](https://rt007.github.io/life-calendar/) | Visualise your entire life in weeks on a single printable page | HTML · JavaScript |
 | [**DT4EM Video**](https://youtu.be/adA8uoCietg) | Project overview video of Digital Twins for Emergency Mgmt research | Gemini · ElevenLabs · CapCut |
 
@@ -78,13 +78,16 @@ When I'm not [researching](https://rt007.github.io/research.html), I build thing
 
 ## 📬 Get in Touch
 
-- 🌐 **Website:** [rt007.github.io](https://rt007.github.io)
-- 💼 **LinkedIn:** [linkedin.com/in/romalthakkar](https://linkedin.com/in/romalthakkar)
-- 💻 **GitHub:** [github.com/rt007](https://github.com/rt007)
-- 🔗 **Linktree:** [linktr.ee/romalt](https://linktr.ee/romalt)
+🌐 [**Website**](https://romalbuilds.com)
+
+💼 [**LinkedIn**](https://linkedin.com/in/romalthakkar)
+
+💻 [**GitHub**](https://github.com/rt007)
+
+🔗 [**Linktree**](https://linktr.ee/romalt) 
 
 ---
 
 <p align="center">
-  <sub>© 2026 Romal Thakkar · Built with curiosity</sub>
+  <sub>© 2026 Romal Thakkar · Built with curiosity 🚀</sub>
 </p>
