@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/romalthakkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://rt007.github.io"><img src="https://img.shields.io/badge/Website-rt007.github.io-black?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://romalbuilds.com"><img src="https://img.shields.io/badge/Website-romalbuilds.com-black?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
   &nbsp;
   <a href="https://linktr.ee/romalt"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/></a>
   &nbsp;
