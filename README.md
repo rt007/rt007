@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Romal 👋</h1>
+<h1 align="center">Hi, I'm Romal ✋</h1>
 
 <p align="center">
   <em>Technology Researcher (AI & Emerging Tech) · Technology Consulting · Digital Transformation</em>
