@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Romal ✋</h1>
 
 <p align="center">
-  <em>Technology Researcher (Emerging Tech & AI) · Technology Consulting · Digital Transformation</em>
+  <a href="https://github.com/rt007">
+    <img src="https://readme-typing-svg.demolab.com?size=20&pause=1200&center=true&vCenter=true&width=600&color=0e75b6&lines=Technology+Researcher+(Emerging+Tech+%26+AI);Technology+Consulting;Digital+Transformation" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
