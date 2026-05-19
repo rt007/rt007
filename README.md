@@ -9,9 +9,9 @@
   &nbsp;
   <a href="https://romalbuilds.com"><img src="https://img.shields.io/badge/Website-romalbuilds.com-black?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
   &nbsp;
-  <a href="https://linktr.ee/romalt"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Linktree"/></a>
-  &nbsp;
   <a href="https://github.com/rt007"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rt007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
