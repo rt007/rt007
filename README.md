@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Romal ✋</h1>
 
 <p align="center">
-  <em>Technology Researcher (AI & Emerging Tech) · Technology Consulting · Digital Transformation</em>
+  <em>Technology Researcher (Emerging Tech & AI) · Technology Consulting · Digital Transformation</em>
 </p>
 
 <p align="center">
