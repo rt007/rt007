@@ -13,6 +13,7 @@
   &nbsp;
   <a href="https://github.com/rt007"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rt007&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="Profile views" />
   <img src="https://komarev.com/ghpvc/?username=rt007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
